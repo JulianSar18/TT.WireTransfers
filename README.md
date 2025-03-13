@@ -42,5 +42,5 @@ Permite operaciones CRUD sobre billeteras y CR sobre el historial de movimientos
 ### Pasos
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/payphone-wallet-api.git
-   cd payphone-wallet-api
+   git clone https://github.com/JulianSar18/TT.WireTransfers.git
+   cd TT.WireTransfers
